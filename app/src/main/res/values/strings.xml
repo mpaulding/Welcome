@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="welcome">Welcome to CS 273 - Mobile Application Development</string>
+</resources>
