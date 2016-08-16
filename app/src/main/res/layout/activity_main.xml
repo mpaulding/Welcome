@@ -15,5 +15,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome"
-        android:id="@+id/welcomeTextView" />
+        android:id="@+id/welcomeTextView"
+        android:textSize="@dimen/welcome_textsize" />
 </LinearLayout>
