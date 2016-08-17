@@ -13,8 +13,21 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:text="@string/welcome"
         android:id="@+id/welcomeTextView"
-        android:textSize="@dimen/welcome_textsize" />
+        android:textSize="@dimen/welcome_textsize"
+        android:textColor="@color/welcome_text_color"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:id="@+id/pirateImageView"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:src="@drawable/occpirate"
+        android:contentDescription="@string/occ_pirate_logo_text" />
 </LinearLayout>

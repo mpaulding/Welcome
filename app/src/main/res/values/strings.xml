@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Welcome</string>
     <string name="welcome">Welcome to CS 273 - Mobile Application Development</string>
+    <string name="occ_pirate_logo_text">OCC pirate logo</string>
 </resources>
