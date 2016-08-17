@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benvenuto!</string>
+    <string name="occ_pirate_logo_text">OCC logo pirata</string>
+    <string name="welcome"> Benvenuti a CS 273 - Sviluppo di Applicazioni Mobili</string>
+</resources>
